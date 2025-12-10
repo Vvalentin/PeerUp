@@ -1,11 +1,13 @@
 
   # PeerUp!
 
-  This is a code bundle for PeerUp!. The original project is available at https://www.figma.com/design/6bVylMGKF8UsyvdU5KxT2a/PeerUp-.
+  PeerUp! ist eine App um Studierenden dabei zu helfen das Bilden von Gruppen zu erleichtern.
 
-  ## Running the code
+  ## Ausführung des Codes
 
   Run `npm i` to install the dependencies.
+
+  Run npm `install --save-dev @types/react-dom @types/react` 
 
   Run `npm run dev` to start the development server.
   
