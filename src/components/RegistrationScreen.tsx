@@ -21,8 +21,8 @@ export function RegistrationScreen({ onComplete }) {
     <div className="min-h-screen bg-white flex items-center justify-center p-6">
       <div className="w-full max-w-[393px]">
         <div className="text-center mb-12">
-          <div className="w-20 h-20 bg-[#E30613] rounded-[12px] mx-auto mb-6 flex items-center justify-center">
-            <span className="text-white text-3xl">H</span>
+          <div className="w-20 h-20 bg-[#00000] rounded-[12px] mx-auto mb-6 flex items-center justify-center">
+            <img src="/logo.png" alt="Logo" style={{ width: '150px' }} />
           </div>
           <h1 className="text-[#333333] mb-2">Willkommen</h1>
           <p className="text-[#666666]">Bitte registriere dich mit deinen Universitäts-Zugangsdaten</p>

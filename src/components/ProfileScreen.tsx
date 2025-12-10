@@ -29,7 +29,7 @@ export function ProfileScreen({ userData, onUpdateProfile, onLogout, currentTab,
           {/* Avatar */}
           <div className="flex justify-center mb-8">
             <div className="w-24 h-24 bg-[#F5F5F5] rounded-full flex items-center justify-center">
-              <User className="w-12 h-12 text-[#666666]" />
+              <img src="/profil.png" alt="profil" style={{ width: '150px' }} />
             </div>
           </div>
 
