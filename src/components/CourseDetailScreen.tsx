@@ -116,6 +116,15 @@ export function CourseDetailScreen({
                 </span>
                 <ExternalLink className="w-5 h-5 text-[#666666]" />
               </a>
+                            <a
+                href="#"
+                className="flex items-center justify-between p-4 bg-white border border-[#E0E0E0] rounded-[12px] hover:bg-[#F5F5F5] transition-colors"
+              >
+                <span className="text-[#333333]">
+                  Google Calendar
+                </span>
+                <ExternalLink className="w-5 h-5 text-[#666666]" />
+              </a>
             </div>
           </div>
 
